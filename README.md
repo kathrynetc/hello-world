@@ -1,2 +1,2 @@
 # hello-world
-first
+first project on git-hub, using the hello world! guide.
